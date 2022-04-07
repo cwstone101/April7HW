@@ -1,0 +1,47 @@
+body{
+    background-color: lemonchiffon;
+
+}
+
+h1{
+    border: 10px solid black;
+    text-align: center;
+}
+h3{
+    color: red;
+    border: 5px solid red;
+    text-align: center;
+
+}
+
+.ItemsForSale{
+    text-align: center;
+
+}
+
+ul{
+    text-align: center;
+    
+}
+
+li{
+    padding-bottom: 5px;
+
+}
+
+img{
+    align-items: center;
+    height: 100px;
+    padding-top: 10px;
+}
+
+button{
+    border: 5px solid red;
+    padding-bottom: 10px;
+}
+
+span{
+    align-content: center;
+    color: rgb(252, 5, 54);
+    font-size: 30px;
+}
